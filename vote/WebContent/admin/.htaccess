@@ -1,0 +1,5 @@
+AuthName "JSP Vote"
+AuthType Basic
+AuthUserFile ./.password
+    
+require valid-user
